@@ -2,6 +2,7 @@ package com.example.transitointeligente;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 
 import androidx.activity.EdgeToEdge;
@@ -25,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void startGame(View view) {
+        Log.d("MainActivity", "startGame button clicked");
         Intent intent = new Intent(MainActivity.this, StartGame.class);
         startActivity(intent);
         finish();
