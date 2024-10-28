@@ -44,11 +44,6 @@ Veja o funcionamento do Transito Inteligente:
 3. Responda às perguntas sobre as placas de trânsito.
 4. Ao final do quiz, confira sua pontuação!
 
-## Exemplo de Uso
-
-- **Nome do Usuário**: Maria
-- **Pontuação Final**: 8/10
-
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar sugestões, abrir issues ou fazer pull requests para melhorias no projeto.
