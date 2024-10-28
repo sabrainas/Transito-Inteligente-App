@@ -47,3 +47,7 @@ Veja o funcionamento do Transito Inteligente:
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar sugestões, abrir issues ou fazer pull requests para melhorias no projeto.
+
+## Licença
+
+Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
